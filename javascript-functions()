@@ -1,0 +1,4 @@
+push() = insere um elemento na última posição de um array
+pop() = remove o último elemento de um array e retorna o elemento removido em uma variável
+shift() = remove o primeiro elemento de um array e retorna o elemento removido em uma variável
+unshift() = insere um elemento na primeira posição de um array
