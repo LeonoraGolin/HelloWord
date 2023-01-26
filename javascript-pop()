@@ -1,0 +1,6 @@
+a função pop() é usada para remover um elemento do array e retorna o elemento removido em uma variável
+
+myarr = [1, 2, 3]
+elementoremovido = myarr.pop([0]);
+elemento removido = 1;
+e o array é alterado para [2, 3];
