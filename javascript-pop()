@@ -4,3 +4,7 @@ myarr = [1, 2, 3]
 elementoremovido = myarr.pop([0]);
 elemento removido = 1;
 e o array é alterado para [2, 3];
+
+const myArray = [["John", 23], ["cat", 2]];
+let removed = myArray.pop(myArray.lenght-1);
+no exemplo, vai remover de myArray último elemento e atribuir à variável removed
