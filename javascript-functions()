@@ -2,3 +2,11 @@ push() = insere um elemento na última posição de um array
 pop() = remove o último elemento de um array e retorna o elemento removido em uma variável
 shift() = remove o primeiro elemento de um array e retorna o elemento removido em uma variável
 unshift() = insere um elemento na primeira posição de um array
+
+JSON.stringify() = converte um valor javascript em uma string JSON
+JSON.parse() = converte dados recebidos como json
+
+function convertToFarenheit(celsius) {
+  let farenheith = (celsius*9/5) + 32;
+  return farenheith;
+}
