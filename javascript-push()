@@ -1,0 +1,12 @@
+a função push() insere um elemento na última posição de um array.
+myarr = [1, 2, 3, 4]
+o tamanho é length que é a quantidade de elementos = 4 elementos
+os índices são [0] = 1 / [1] = 2 / [2] = 3 / [3] = 4
+a última posição é:
+ultpos = myarr.length-1;
+a próxima posição é myarr.length
+então
+myarr[myarr.length] = 5
+vai inserir o 5 na posição [4] que vem depois do 4
+
+arr.push(5) insere o 5 na posição arr.length
